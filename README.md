@@ -31,7 +31,7 @@ We’re eager to have your help in improving this kit. If you have an idea for a
 
 ### Cheat Sheets
 
-The Git and GitHub Cheat Sheets are located within the [`downloads/`](https://github.com/github/training-kit/tree/master/downloads/) directory. There are some translations available and we're always looking for more. If you are looking to get a `.pdf` generated for the html version of a cheatsheet, please start an issue and @mention [@brntbeer](https://github.com/brntbeer) or [@crichid](https://github.com/crichid) and they will see to the request.
+The Git and GitHub Cheat Sheets are located within the [`downloads/`](https://github.com/github/training-kit/tree/master/downloads/) directory. There are some translations available and we are always looking for more. If you are looking to get a `.pdf` generated for the html version of a cheatsheet, please start an issue and @mention [@brntbeer](https://github.com/brntbeer) or [@crichid](https://github.com/crichid) and they will see to the request.
 
 ### Legacy Class Material
 
